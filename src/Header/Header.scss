@@ -1,0 +1,23 @@
+.brand-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.brand-logo {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 200px;
+}
+
+.quick-rent-form-container {
+  position: absolute;
+  top: 215px;
+  right: 0;
+  padding: 30px;
+
+  .quick-rent-form-container__fields-container {
+    display: grid;
+  }
+}
